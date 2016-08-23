@@ -1,4 +1,3 @@
-layout_spectrum: 0.692346494179219
 typography_spectrum: 0.9520335122942924
 color:
   brandStrength: 0.22586848656646907
@@ -6,9 +5,11 @@ color:
   saturation: 0.15341582708060741
   rhythmicContrast: 0.16132971341721714
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+layout_spectrum: 0.692346494179219
 name: Quantor Capital
+title: Investment Management & Consulting
